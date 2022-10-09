@@ -203,7 +203,7 @@ end
 local function Create() -- Creates the map
 local args = {
     [1] = "_lobbytemplategreen6",
-    [2] = "jjk_pve_jogo",
+    [2] = "jjk_pve",
     [3] = true,
     [4] = "Normal"
 }
